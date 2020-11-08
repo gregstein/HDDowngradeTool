@@ -216,6 +216,7 @@
     </Content>
     <None Include="Resources\aoe2hd.ico" />
     <Content Include="FodyWeavers.xml" />
+    <None Include="Resources\aoe2hd.png" />
     <Content Include="steam_api.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

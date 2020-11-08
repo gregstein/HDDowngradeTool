@@ -204,7 +204,7 @@
             // 
             // validitypng
             // 
-            this.validitypng.Image = global::HDDowngradeTool.Properties.Resources.aoe2de;
+            this.validitypng.Image = global::HDDowngradeTool.Properties.Resources.aoe2hd;
             this.validitypng.Location = new System.Drawing.Point(250, 107);
             this.validitypng.Name = "validitypng";
             this.validitypng.Size = new System.Drawing.Size(32, 32);
