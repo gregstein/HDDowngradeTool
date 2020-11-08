@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/gregstein/HDDowngradeTool.svg)](https://github.com/gregstein/HDDowngradeTool/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/gregstein/HDDowngradeTool.svg)](https://github.com/gregstein/HDDowngradeTool/network)
 
-<img src="https://i.imgur.com/oLoqev2.jpg" width="20%" >
+<img src="https://i.imgur.com/oLoqev2.jpg" width="80%" >
 Watch old recorded games from previous patch versions.
 
 **Download Installer:** [HDDowngradeTool-Installer.exe](https://github.com/gregstein/HDDowngradeTool/releases/tag/1.0)
